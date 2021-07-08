@@ -1,4 +1,4 @@
-
+*,
 *::before,
 *::after {
 	margin: 0;
@@ -217,14 +217,8 @@ h1 {
 .wthree_footer_copy p a:hover{
 	color:#212121;
 }
-<<<<<<< HEAD
 
 
-=======
-.w3ls-touch{
-	padding: 1em;
-}
->>>>>>> a61da33c8e43b825de45f820db7df4cb50e7164c
 .btn-container {
     display: flex;
     justify-content: space-between;
@@ -235,11 +229,7 @@ h1 {
     width: 80px;
     border:  none;
     margin-right: 0px;
-<<<<<<< HEAD
     border-radius: 0px;
-=======
-    border-radius: 12px;
->>>>>>> a61da33c8e43b825de45f820db7df4cb50e7164c
     column-count: #333;
     color: #333;
     cursor: pointer;
